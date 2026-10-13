@@ -1,6 +1,0 @@
-# f — 크리스티안 로젠크란츠 (긴 이름 · 사진 0장 · "흑백으로") · my-style.f.css: --my-bg #FAFAF7 · --my-point none · --my-image mono
-- 사진 0장: 카드는 글만 섭니다 (data-ca-report)
-- og:image 태그 삭제 (사진 0장) — site-qa OG WARN 1건은 의도된 결과
-- 끝줄 사진 출처 줄 삭제
-- 흑백 요청: 바탕 #FAFAF7(시스템 기본 명도 쪽) · 포인트 none · 이미지 mono
-- 이름 12자: 캡션 줄·끝줄 잘림 0, 넘침 0 (1280 · 390), 콘솔 에러 0
